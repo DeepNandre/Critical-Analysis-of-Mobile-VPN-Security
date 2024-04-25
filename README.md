@@ -18,10 +18,6 @@ In this project, we conducted an in-depth analysis of popular mobile VPN applica
 - **Privacy Concerns**: Exploration of how VPNs handle user data, including logging practices that may threaten user privacy.
 - **Impact Assessment**: Evaluation of the real-world implications of these vulnerabilities for everyday VPN users.
 
-## Installation and Usage
-
-This repository includes the data analysis scripts, detailed findings, and the final report. To replicate our analysis or explore the findings:
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
